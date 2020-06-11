@@ -1,0 +1,62 @@
+//Radar Template
+//Download the photoshop plug-in here: https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop
+//Bind for screenshots: bind "0" "sv_cheats 1; developer 0; r_drawviewmodel 0; cl_drawhud 0; net_graph 0; r_disable_distance_fade_on_big_props 1; r_disable_distance_fade_on_big_props_thresh 2"
+//Overview: scale 2.70, pos_x -1916, pos_y 892
+//setpos -188.718430 -490.401886 2074.726807;setang 87.978752 -33.039467 0.000000
+
+
+"kw_warehouse"
+{
+	"material"	"overviews/kw_warehouse"	// texture file
+	"pos_x"		"-1916"	// upper left world coordinate
+	"pos_y"		"892"
+	"scale"		"2.70" 
+
+	//Uncomment to use multiple heights.
+	"verticalsections"
+	{
+		"default" // The default "kw_warehouse_radar.dds" image
+		{
+			"AltitudeMax" "10000"
+			"AltitudeMin" "-100"
+		}
+	
+	//	"higher"// If desired, the "mapname_higher_radar.dds" image
+	//	{
+	//		"AltitudeMax" "10000"
+	//		"AltitudeMin" "257"
+	//	}
+	//	"lower" // If desired, the "mapname_lower_radar.dds" image
+	//	{
+	//		"AltitudeMax" "-65"
+	//		"AltitudeMin" "-10000"
+	//	}
+	}
+	
+	// loading screen icons and positions
+	"CTSpawn_x"	".50"
+	"CTSpawn_y"	".72"
+	"TSpawn_x"	".50"
+	"TSpawn_y"	".28"
+
+//Bomb site locations
+//	"bombA_x"	"0"
+//	"bombA_y"	"0"
+//	"bombB_x"	"0"
+//	"bombB_y"	"0"
+
+//Hostage Locations
+//	"Hostage1_x"	"0"
+//	"Hostage1_y"	"0"
+//	"Hostage2_x"	"0"
+//	"Hostage2_y"	"0"
+//	"Hostage3_x"	"0"
+//	"Hostage3_y"	"0"
+//	"Hostage4_x"	"0"
+//	"Hostage4_y"	"0"
+//	"Hostage5_x"	"0"
+//	"Hostage5_y"	"0"
+//	"Hostage6_x"	"0"
+//	"Hostage6_y"	"0"
+}
+
