@@ -1,14 +1,14 @@
 
 "kw_warehouse"
 {
-	"material"	"overviews/kw_warehouse"	// texture file
-	"pos_x"		"-1916"	// upper left world coordinate
+	"material"	"overviews/kw_warehouse"	
+	"pos_x"		"-1916"	
 	"pos_y"		"892"
 	"scale"		"2.70" 
 
 	"verticalsections"
 	{
-		"default" // The default "kw_warehouse_radar.dds" image
+		"default"
 		{
 			"AltitudeMax" "10000"
 			"AltitudeMin" "-100"
