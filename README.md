@@ -1,1 +1,1 @@
-# CSGO-Radar-Map
+# CSGO-Selfmade-Map
