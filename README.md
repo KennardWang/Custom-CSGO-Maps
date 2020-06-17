@@ -1,9 +1,11 @@
-## User Mannual
-### You have 2 ways to play with my map  
-+ Subscribe in workshop  
-  > You can visit my workshop through link: https://steamcommunity.com/sharedfiles/filedetails/?id=2119989188  
-  > Subscribe map and start CSGO, find this map in workshop   
+# User Mannual
+### 2 ways to play with my map
++ Subscribe in workshop
+
+  > You can visit my workshop through link: https://steamcommunity.com/sharedfiles/filedetails/?id=2119989188
+  > Subscribe map and start CSGO, find this map in workshop
 + Configure BSP file by yourself
+
   > 1.Download .bsp file on GitHub.  
   > 2.Find your Steam installation directory.  
   > 3.Enter file Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps.  
@@ -11,6 +13,8 @@
 ------
 ### License  
 + Copyright©KENNARD_WANG 2020.6.13 20:50
+
+  > If you want to make a reference, please give me credit by adding the foregoing license, thanks.
 ------
 ### Author
 + Kennard Wang
