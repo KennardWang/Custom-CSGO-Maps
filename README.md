@@ -12,10 +12,8 @@
   > 4.Paste .bsp file into it.
 ------
 ### License  
-+ Copyright©KENNARD_WANG 2020.6.13
-
-  > If you want to make a reference, please give me credit by adding the foregoing license, thanks.
++ [BSD License](https://github.com/KennardWang/CSGO-Map_Selfmade/blob/master/LICENSE)
 ------
 ### Author
-+ Kennard Wang
++ Kennard Wang ( 2020.6.13 )
 ------
