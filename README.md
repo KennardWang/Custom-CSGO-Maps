@@ -1,15 +1,17 @@
-# CSGO-Map_Homemade
-### Two ways to play with my map
+# CSGO-Map-kw_warehouse
+
+### Two Ways To Play
 + Subscribe in workshop
 
-  > You can visit my workshop through link: https://steamcommunity.com/sharedfiles/filedetails/?id=2119989188
-  > Subscribe map and start CSGO, find this map in workshop
-+ Configure BSP file by yourself
+  > You can visit my steam CSGO workshop by: https://steamcommunity.com/sharedfiles/filedetails/?id=2119989188.
 
-  > 1.Download .bsp file on GitHub.  
-  > 2.Find your Steam installation directory.  
-  > 3.Enter file Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps.  
-  > 4.Paste .bsp file into it.
++ Configure BSP file
+
+  > 1. Download ***.bsp*** file.  
+  > 2. Find your Steam installation directory.  
+  > 3. Enter file Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps.  
+  > 4. Paste ***.bsp*** file under this directory.
+  
 ------
 ### License  
 + [BSD License](https://github.com/KennardWang/CSGO-Map_Selfmade/blob/master/LICENSE)
