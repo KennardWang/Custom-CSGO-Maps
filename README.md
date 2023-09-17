@@ -1,10 +1,15 @@
 # Custom-CSGO-Maps
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=FDEE21" />
+
+  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/Custom-CSGO-Maps)
   &nbsp;
-  <img src="https://img.shields.io/github/forks/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=white" />
+  [![stars](https://img.shields.io/github/stars/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/Custom-CSGO-Maps/stargazers)
   &nbsp;
+  [![forks](https://img.shields.io/github/forks/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=white)](https://github.com/KennardWang/Custom-CSGO-Maps/forks)
+  &nbsp;
+  [![contributors](https://img.shields.io/github/contributors/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=8BC0D0)](https://github.com/KennardWang/Custom-CSGO-Maps/graphs/contributors)
+  
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
