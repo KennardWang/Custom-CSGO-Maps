@@ -1,9 +1,15 @@
 # Custom-CSGO-Maps
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/Custom-CSGO-Maps" />
-  <img src="https://img.shields.io/github/license/KennardWang/Custom-CSGO-Maps" />
-  <img src="https://img.shields.io/badge/maintenance-No-red" />
+  <img src="https://img.shields.io/github/stars/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=FDEE21" />
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/counter strike-000000.svg?logo=counter-strike&style=for-the-badge" />
 </div>
 
 
@@ -44,7 +50,7 @@
 
 ## Maintainers
 
-[@KennardWang](https://github.com/KennardWang).
+![badge](https://img.shields.io/badge/maintenance-NO-EF2D5E) [@KennardWang](https://github.com/KennardWang)
 
 
 
@@ -56,4 +62,4 @@ Feel free to [open an issue](https://github.com/KennardWang/Custom-CSGO-Maps/iss
 
 ## License
 
-[BSD-2-Clause](LICENSE) © Kennard Wang. ( 2020.6.13 )
+[![license](https://img.shields.io/github/license/KennardWang/Custom-CSGO-Maps)](LICENSE) © Kennard Wang ( 2020.6.13 )
