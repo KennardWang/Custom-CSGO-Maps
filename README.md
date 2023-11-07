@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/Custom-CSGO-Maps)
+  [![description](https://img.shields.io/badge/project-Individual-FFB7C5?style=for-the-badge)](https://github.com/KennardWang/Custom-CSGO-Maps)
   &nbsp;
   [![stars](https://img.shields.io/github/stars/KennardWang/Custom-CSGO-Maps?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/Custom-CSGO-Maps/stargazers)
   &nbsp;
@@ -12,9 +12,9 @@
   
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-191970?style=for-the-badge&logo=steam&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/counter strike-000000.svg?logo=counter-strike&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/counter strike-B8860B.svg?logo=counter-strike&style=for-the-badge" />
 </div>
 
 
